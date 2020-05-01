@@ -34,7 +34,7 @@ void ShowBanner()
 void ShowRules()
 {
 	printf("* Orientacoes de uso do programa:\n");
-	printf("* 1. Utilizar no maximo 128 caracteres.\n");
+	printf("* 1. Utilizar no maximo 128 caracteres, caracteres excedentes serao ignorados.\n");
 	printf("* 2. Apenas utilizar letras, sem espacamento.\n");
 	printf("* 3. Acentuacao e numeros tambem sao bloqueados.\n\n");
 	printf("  Faca bom uso do sistema!\n");		
